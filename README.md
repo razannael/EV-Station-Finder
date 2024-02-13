@@ -1,6 +1,6 @@
 # EV Station Finder App
 
-![EV Station Finder App](https://github.com/razannael/EV-Station-Finder-/assets/127951072/399b77f0-6fa6-43a7-bc73-bd9138fa4d9e)
+<img src="https://github.com/razannael/EV-Station-Finder-/assets/127951072/399b77f0-6fa6-43a7-bc73-bd9138fa4d9e" alt="EV Station Finder App" width="300">
 
 ## What is it?
 
